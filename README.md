@@ -63,35 +63,42 @@ A powerful and interactive WhatsApp Chat Analyzer built using Python and Streaml
 
 ___
 💻 Installation:
+
 To set up and run the WhatsApp Chat Analyzer, follow these steps:
 
 Clone the repository:
 
 git clone https://github.com/yourusername/WhatsApp-Chat-Analyzer.git
+
 cd WhatsApp-Chat-Analyzer
 ___
 
 Create a virtual environment:
+
 python -m venv venv
 source venv/bin/activate  # For Linux/macOS
 venv\Scripts\activate     # For Windows
 ___
 
 Install dependencies:
+
 pip install -r requirements.txt
 ___
 
 Run the app:
+
 streamlit run app.py
 
 ___
 
 📑 How to Use
+
 Upload Chat File:
 Once the app opens in your browser, you'll be prompted to upload a WhatsApp chat file (e.g., .txt format).
 Choose the file, and the app will start processing the chat data.
 
 Explore Insights:
+
 The app will provide you with a dashboard featuring various analytics such as:
 
 >Sentiment analysis over time
@@ -126,6 +133,7 @@ Identifies messages that have been deleted from the chat.
 ___
 
 🛠️ Development and Contributing
+
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Please ensure that your code adheres to the style guide and passes existing tests.
 
 To set up your local development environment, use the following shell script:
