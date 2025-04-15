@@ -44,7 +44,7 @@ A powerful and interactive WhatsApp Chat Analyzer built using Python and Streaml
 
 📁 WhatsApp-Chat-Analyzer/
 
-│
+
 ├── app.py                      # Main Streamlit app file
 
 ├── helper.py                   # Helper functions for data manipulation
