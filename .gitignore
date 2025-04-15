@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Streamlit generated files
+.streamlit/config.toml
+.streamlit/credentials.toml
+
+# OS-specific hidden files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints (in case)
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Personal WhatsApp chat files (accidentally added)
+*.txt
+!stop__hinglish.txt  # keep your stop words file
+
+# Other
+*.sqlite3
