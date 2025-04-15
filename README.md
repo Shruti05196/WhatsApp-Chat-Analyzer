@@ -43,6 +43,7 @@ A powerful and interactive WhatsApp Chat Analyzer built using Python and Streaml
 ## 📂 Folder Structure
 
 📁 WhatsApp-Chat-Analyzer/
+
 │
 ├── app.py                      # Main Streamlit app file
 
