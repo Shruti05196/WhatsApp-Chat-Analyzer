@@ -45,12 +45,19 @@ A powerful and interactive WhatsApp Chat Analyzer built using Python and Streaml
 📁 WhatsApp-Chat-Analyzer/
 │
 ├── app.py                      # Main Streamlit app file
+
 ├── helper.py                   # Helper functions for data manipulation
+
 ├── preprocessor.py             # Preprocessing the WhatsApp chat data
+
 ├── requirements.txt            # Python dependencies
+
 ├── setup.sh                    # Shell script for setting up the environment
+
 ├── stop__hinglish.txt           # Custom stop words for Hinglish processing
+
 ├── .gitignore                  # Git ignore file for unnecessary files
+
 └── README.md                   # Project documentation
 
 ___
